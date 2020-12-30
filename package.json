@@ -4,6 +4,9 @@
 	"description": "fund index",
 	"version": "0.0.1",
 	"publisher": "mxt",
+	"repository": {
+        "url": "https://github.com/Zerocan/fund-index"
+    },
 	"engines": {
 		"vscode": "^1.52.0"
 	},
